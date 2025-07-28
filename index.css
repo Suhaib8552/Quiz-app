@@ -265,14 +265,14 @@ input[type="radio"]{
 
 @media screen and (max-width: 768px) {
     .header{
-        width: 20vw;
+        width: 28vw;
     }
     .header img {
         width: 75%;
         margin-left: 5%;
     }
     .pre-requisites {
-        width: 90%;
+        width: 95%;
         padding: 10px;
     }
     .difficulty-level button {
