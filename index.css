@@ -284,4 +284,7 @@ input[type="radio"]{
         font-size: 16px;
         
     }
+    #next-btn{
+        margin-top: 4%;
+    }
 }
